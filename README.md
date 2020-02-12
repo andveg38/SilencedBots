@@ -1,3 +1,5 @@
+*Forked from https://github.com/justin/SilencedBots/blob/master/RegEx-Filters.md
+
 SilencedBots
 ============
 
